@@ -7,3 +7,4 @@ Factory模式有两个重要功能：
 ## Reference
 [wiki factory pattern](https://en.wikipedia.org/wiki/Factory_(object-oriented_programming))<br>
 [jelly young, jellythink factory](http://www.jellythink.com/archives/62)<br>
+[design pattern...](http://www.jellythink.com/archives/category/programdesign/designpattern)
