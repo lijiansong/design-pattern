@@ -24,5 +24,6 @@ Strategy模式和Template模式解决了类似的问题，Strategy模式和Templ
   - 可以在运行期间动态定义实现（通过一个指向相同类型的指针，典型的是抽象基类的指针）
 - 缺点
   - 系统中对象过多。
+
 从上面对比中可以看出，组合相比继承可以取得更好的效果，因此在面向对象的设计中的有一条很重要的原则就是：优先使用（对象）组合，而非（类）继承（Favor Composition Over Inheritance）。实际上，继承是一种强制性很强的方式，因此也使得基类和具体子类之间的耦合性很强。例如在Template模式中在ConcreteClass1中定义的原语操作别的类是不能够直接复用（除非你继承自AbstractClass，具体分析请参看Template模式文档）。而组合（委托）的方式则有很小的耦合性，实现（具体实现）和接口（抽象接口）之间的依赖性很小，例如在本实现中，ConcreteStrategyA的具体实现操作很容易被别的类复用，例如我们要定义另一个Context类AnotherContext，只要组合一个指向Strategy的指针就可以很容易地复用ConcreteStrategyA的实现了。
 另外，Strategy模式很State模式也有相似之处，但是State模式注重的对象在不同的状态下不同的操作。两者之间的区别就是State模式中具体实现类中有一个指向Context的引用，而Strategy模式则没有
