@@ -1,0 +1,2 @@
+# Observer Pattern
+Observer Pattern是在大型系统开发过程中经常要用到的模式之一。除了微软的MFC、J2EE中的Struts提供了MVC的实现框架，在Java语言中还提供了专门的接口实现Observer模式：通过专门的类Observable及Observer接口来实现MVC编程模式。
