@@ -3,48 +3,53 @@
 
 ## Content
 
-* factory pattern
+* [factory pattern](https://github.com/lijiansong/design-pattern/tree/master/Creational%20Patterns/factory)
 
-* abstract factory pattern
+* [abstract factory pattern](https://github.com/lijiansong/design-pattern/tree/master/Creational%20Patterns/abstract-factory)
 
-* singleton pattern
+* [singleton pattern](https://github.com/lijiansong/design-pattern/tree/master/Creational%20Patterns/singleton)
 
-* builder pattern
+* [builder pattern](https://github.com/lijiansong/design-pattern/tree/master/Structural%20Patterns/builder)
 
-* prototype pattern
+* [prototype pattern](https://github.com/lijiansong/design-pattern/tree/master/Creational%20Patterns/prototype)
 
-* bridge pattern
+* [bridge pattern](https://github.com/lijiansong/design-pattern/tree/master/Creational%20Patterns/bridge)
 
-* adapter pattern
+* [adapter pattern](https://github.com/lijiansong/design-pattern/tree/master/Structural%20Patterns/adapter)
 
-* decorator pattern
+* [decorator pattern](https://github.com/lijiansong/design-pattern/tree/master/Structural%20Patterns/decorator)
 
-* compositer pattern
+* [compositer pattern](https://github.com/lijiansong/design-pattern/tree/master/Structural%20Patterns/composite)
 
-* flyweight pattern
+* [flyweight pattern](https://github.com/lijiansong/design-pattern/tree/master/Structural%20Patterns/flyweight)
 
-* facade pattern
+* [facade pattern](https://github.com/lijiansong/design-pattern/tree/master/Structural%20Patterns/facade)
 
-* proxy pattern
+* [proxy pattern](https://github.com/lijiansong/design-pattern/tree/master/Structural%20Patterns/proxy)
 
-* templete pattern
+* [templete pattern](https://github.com/lijiansong/design-pattern/tree/master/Behavioral%20Patterns/template)
 
-* strategy pattern
+* [strategy pattern](https://github.com/lijiansong/design-pattern/tree/master/Behavioral%20Patterns/strategy)
 
-* state pattern
+* [state pattern](https://github.com/lijiansong/design-pattern/tree/master/Behavioral%20Patterns/state)
 
-* observer pattern
+* [observer pattern](https://github.com/lijiansong/design-pattern/tree/master/Behavioral%20Patterns/observer)
 
-* memento pattern
+* [memento pattern](https://github.com/lijiansong/design-pattern/tree/master/Behavioral%20Patterns/memento)
 
-* mediator pattern
+* [mediator pattern](https://github.com/lijiansong/design-pattern/tree/master/Behavioral%20Patterns/mediator)
 
-* command pattern
+* [command pattern](https://github.com/lijiansong/design-pattern/tree/master/Behavioral%20Patterns/command)
 
-* visitor pattern
+* [visitor pattern](https://github.com/lijiansong/design-pattern/tree/master/Behavioral%20Patterns/visitor)
 
-* chain of responsibility pattern
+* [chain of responsibility pattern](https://github.com/lijiansong/design-pattern/tree/master/Behavioral%20Patterns/chain%20of%20responsibility)
 
-* iterator pattern
+* [iterator pattern](https://github.com/lijiansong/design-pattern/tree/master/Behavioral%20Patterns/iterator)
 
-* interpreter pattern
+* [interpreter pattern](https://github.com/lijiansong/design-pattern/tree/master/Behavioral%20Patterns/interpretor)
+
+## Reference
+[1][Design Patterns: Elements of Reusable Object-Oriented Software](https://github.com/lijiansong/design-pattern/blob/master/DesignPatterns.pdf)
+[2][Google C++ Style Guide](https://github.com/lijiansong/design-pattern/blob/master/Google_C%2B%2B_Style_Guide_%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+[3][others...](http://www.jellythink.com/archives/category/programdesign/designpattern)
