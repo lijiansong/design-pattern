@@ -51,5 +51,7 @@
 
 ## Reference
 [1][Design Patterns: Elements of Reusable Object-Oriented Software](https://github.com/lijiansong/design-pattern/blob/master/DesignPatterns.pdf)
+
 [2][Google C++ Style Guide](https://github.com/lijiansong/design-pattern/blob/master/Google_C%2B%2B_Style_Guide_%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
 [3][others...](http://www.jellythink.com/archives/category/programdesign/designpattern)
