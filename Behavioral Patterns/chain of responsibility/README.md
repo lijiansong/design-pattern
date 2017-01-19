@@ -1,0 +1,2 @@
+# Chain of Responsibility Pattern
+Chain of Responsibility模式的最大的一个好处就是给系统降低了耦合性，请求的发送者完全不必知道该请求会被哪个应答对象处理，极大地降低了系统的耦合性。
